@@ -1,0 +1,3 @@
+
+*to build a .ko file*
+make -C /lib/modules/4.9.201-tegra/build/ M=$PWD modules

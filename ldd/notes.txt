@@ -1,0 +1,4 @@
+*notes*
+
+- always compile code after adding any new functionality.
+No matter how small. this prevents lots of errors at the end of the project.

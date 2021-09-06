@@ -1,0 +1,1 @@
+obj-m := pcd_device_setup.o pcd_platform_driver.o
